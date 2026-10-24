@@ -12,7 +12,7 @@ Repos in the suite:
 - [dux-search](https://github.com/duxlabs-dev/dux-search) - file indexing and search
 - [dux-calendar](https://github.com/duxlabs-dev/dux-calendar), [dux-files](https://github.com/duxlabs-dev/dux-files), [dux-connect](https://github.com/duxlabs-dev/dux-connect)
 - [dux-plugins](https://github.com/duxlabs-dev/dux-plugins), [dux-plugin-registry](https://github.com/duxlabs-dev/dux-plugin-registry) - official plugins and the registry
-- [dux-packaging](https://github.com/duxlabs-dev/dux-packaging) - packaging and install automation
+- [dux-repo](https://github.com/duxlabs-dev/dux-repo) - packaging and install automation
 - [dux-docs](https://github.com/duxlabs-dev/dux-docs) - the docs site
 
 All of it is MIT licensed. By opening a pull request you agree your contribution is licensed the same way.
@@ -20,7 +20,7 @@ All of it is MIT licensed. By opening a pull request you agree your contribution
 ## Before you start
 
 - Read the [code of conduct](CODE_OF_CONDUCT.md).
-- File issues in the repo that owns the code. Packaging problems go to dux-packaging, docs problems go to dux-docs, everything about the shell UI or `dms` CLI goes to dux-shell.
+- File issues in the repo that owns the code. Packaging problems go to dux-repo, docs problems go to dux-docs, everything about the shell UI or `dms` CLI goes to dux-shell.
 - Search existing issues first. Use the issue templates when a repo has them and fill in the version, distro, and compositor.
 - For anything larger than a bug fix, open an issue or discussion before writing code. It saves both of us from a PR that cannot merge.
 
