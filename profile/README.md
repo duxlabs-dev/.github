@@ -34,6 +34,7 @@ One command installs Dux Modular Shell and its dependencies on Arch, Fedora, Deb
 | [dux-greeter](https://github.com/duxlabs-dev/dux-greeter) | greetd login screen with the Dux aesthetic |
 | [dux-calendar](https://github.com/duxlabs-dev/dux-calendar) | Local, Google, Microsoft and CalDAV calendars |
 | [dux-files](https://github.com/duxlabs-dev/dux-files) | File manager with FileManager1 and portal file chooser support |
+| [dux-edit](https://github.com/duxlabs-dev/dux-edit) | Text and document editor with syntax highlighting and Markdown preview |
 | [dux-search](https://github.com/duxlabs-dev/dux-search) | Fast indexed filesystem search (`dsearch`) |
 | [dux-gop](https://github.com/duxlabs-dev/dux-gop) | System and process monitoring API, CLI and Go library (`dgop`) |
 | [dux-wallpaper-creator](https://github.com/duxlabs-dev/dux-wallpaper-creator) | Material wallpaper creator |
