@@ -35,6 +35,7 @@ One command installs Dux Modular Shell and its dependencies on Arch, Fedora, Deb
 | [dux-calendar](https://github.com/duxlabs-dev/dux-calendar) | Local, Google, Microsoft and CalDAV calendars |
 | [dux-files](https://github.com/duxlabs-dev/dux-files) | File manager with FileManager1 and portal file chooser support |
 | [dux-edit](https://github.com/duxlabs-dev/dux-edit) | Text and document editor with syntax highlighting and Markdown preview |
+| [dux-icons](https://github.com/duxlabs-dev/dux-icons) | Dux Icons is a generated Material icon theme and badge, draws folders and file types itself |
 | [dux-search](https://github.com/duxlabs-dev/dux-search) | Fast indexed filesystem search (`dsearch`) |
 | [dux-gop](https://github.com/duxlabs-dev/dux-gop) | System and process monitoring API, CLI and Go library (`dgop`) |
 | [dux-wallpaper-creator](https://github.com/duxlabs-dev/dux-wallpaper-creator) | Material wallpaper creator |
@@ -55,7 +56,7 @@ One command installs Dux Modular Shell and its dependencies on Arch, Fedora, Deb
 - [Website](https://duxlabs.dev) and [Docs](https://duxlabs.dev/docs)
 - [Application themes](https://duxlabs.dev/docs/dms/application-themes) and [custom themes](https://duxlabs.dev/docs/dms/custom-themes)
 - [Plugin development guide](https://duxlabs.dev/docs/dms/plugins-overview)
-- [Docs source](https://github.com/duxlabs-dev/dux-docs): contributions welcome
+- [Docs source](https://github.com/duxlabs-dev/dux-docs): Contributions welcome!
 
 ## Community and contributing
 
